@@ -19,3 +19,6 @@ Job portal for **Blue collar Employees**. By using this portal employees can eas
 
 ### Visit live Website:
 https://e-recruitment-job-portal.netlify.app/
+
+### Video Link:
+https://vimeo.com/511636288
